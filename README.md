@@ -3,16 +3,25 @@
 
 # a List Of Simple Design/Architecture For Projects In My Points Of View : 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
 # a Cognitive Chatbot System
 
 ![Design](Cognitive-Chatbot.png)
 
-
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 
@@ -22,6 +31,15 @@
 
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 
